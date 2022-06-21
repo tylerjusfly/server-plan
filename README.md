@@ -10,11 +10,13 @@ This API was written in Nodejs/Express and designed to calculate How many server
 $ npm install
 ```
 
-### Running the app on Docker
+for developemnt
 
 ```bash
-
+$ npm run dev
 ```
+
+### Running the app on Docker
 
 Clone the repository
 
