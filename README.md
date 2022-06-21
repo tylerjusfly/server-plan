@@ -47,7 +47,7 @@ $ docker run -dp 4242:4242 <the docker image name above>
 | Endpoint               | HTTP Method | Description                                                       |
 | ---------------------- | ----------- | ----------------------------------------------------------------- |
 | http://localhost:4242/ | GET         | Returns a welcome message to test app is working                  |
-| http://localhost:4242/ | POST        | Returns the number of virtual machines the server can accommodate |
+| http://localhost:4242/ | POST        | Returns the number of servers needed for Virtual Machines         |
 
 ### Send this with the post request
 
