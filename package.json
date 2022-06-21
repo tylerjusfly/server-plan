@@ -1,0 +1,24 @@
+{
+  "name": "serverplannerservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "takeHome"
+  ],
+  "author": "TylerJusfly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http-errors": "^2.0.0",
+    "jest": "^28.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
